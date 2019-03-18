@@ -5,7 +5,7 @@ Microsoft Bot Framework (.NET MVC).
 <ul>
   <li>Adicionando Base de dados ao LUIS</li>
   <li>Intents via conexão com LUIS</li>
-  <li>Visualização Adaptative Card</li>
+  <li>Visualização de Adaptative Card</li>
   <li>Tratamento de Entities</li>
 </ul>
 <br>
