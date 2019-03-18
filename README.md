@@ -9,4 +9,4 @@ Microsoft Bot Framework (.NET MVC).
   <li>Tratamento de Entities</li>
 </ul>
 <br>
-Versão final. Pablo Espanhol, Renan Borba.
+Versão Final. Pablo Espanhol, Renan Borba.
