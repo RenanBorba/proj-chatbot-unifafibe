@@ -9,7 +9,7 @@ Microsoft Bot Framework (.NET MVC).
   <li>Visualização de Adaptative Card</li>
   <li>Tratamento de Entities</li>
 </ul>
-<br>
+<br> 
  
 # Card inicial de interação com o usuário
 
