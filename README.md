@@ -10,7 +10,7 @@ Microsoft Bot Framework (.NET MVC).
   <li>Tratamento de Entities</li>
 </ul>
 <br>
- 
+
 # Card inicial de interação com o usuário
 
 ![01](https://user-images.githubusercontent.com/48495838/54566949-11e88180-49b1-11e9-9792-956a31b6a1a5.jpg)
