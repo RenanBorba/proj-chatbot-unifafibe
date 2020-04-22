@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/proj-asp.svg)](https://github.com/RenanBorba/proj-asp)
+[![Build Status](https://img.shields.io/github/stars/RenanBorba/proj-chatbot.svg)](https://github.com/RenanBorba/proj-chatbot)
 </div>
 
 <br>
