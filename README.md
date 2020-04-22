@@ -13,8 +13,7 @@ Resultado do projeto de Trabalho de Conclusão de Curso Sistemas de informação
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/proj-chatbot.svg)](https://github.com/RenanBorba/proj-chatbot)
-[npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native)
+[![Build Status](https://img.shields.io/github/stars/RenanBorba/proj-chatbot.svg)](https://github.com/RenanBorba/proj-chatbot) [npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native)
 
 </div>
 
