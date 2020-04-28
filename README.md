@@ -18,7 +18,7 @@ Resultado do projeto de Trabalho de Conclusão de Curso Sistemas de informação
 <p>O desenvolvimento do projeto tem por objetivo sanar dúvidas especificas ao âmbito educacional UNIFAFIBE, através de chats como o da plataforma Facebook, resultando em redução de gastos, esforços de profissionais e padronização de atendimento.</p> 
 
 <br>
- 
+
 ## :rocket: Tecnologias 
 Microsoft Bot Framework (.NET MVC).
 <ul>
@@ -27,9 +27,9 @@ Microsoft Bot Framework (.NET MVC).
   <li>Visualização de Adaptative Card</li>
   <li>Tratamento de Entities</li>
 </ul>
+
 <br>
  
-
 # Card inicial de interação com o usuário
 
 ![01](https://user-images.githubusercontent.com/48495838/54566949-11e88180-49b1-11e9-9792-956a31b6a1a5.jpg)
