@@ -37,7 +37,7 @@ Microsoft Bot Framework (.NET MVC).
     <ul>
       <li>git checkout -b my-feature</li>
     </ul>
-  <li>Commit a sua atualização</li>
+  <li>Commit a sua contribuição</li>
     <ul>
       <li>git commit -m 'feat: My feature'</li>
     </ul>
