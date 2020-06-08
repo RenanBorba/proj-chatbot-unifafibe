@@ -46,7 +46,7 @@ Microsoft Bot Framework (.NET MVC).
       <li>git push origin my-feature</li>
     </ul>
 </ul>
-<br><br>
+<br><br><br>
 
 ## Card inicial de interação com o usuário
 
