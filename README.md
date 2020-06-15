@@ -21,7 +21,7 @@ Resultado do projeto de Trabalho de Conclusão de Curso Sistemas de informação
 
 <div align="center">
   
-![chatbot](https://user-images.githubusercontent.com/48495838/84691068-e50b7d00-af19-11ea-9b81-9ac65c0c0dcb.png)
+![chatbot](https://user-images.githubusercontent.com/48495838/84691415-7c70d000-af1a-11ea-8093-19f860b17ab2.png)
 
 </div>
 
