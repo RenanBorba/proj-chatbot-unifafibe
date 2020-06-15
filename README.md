@@ -28,7 +28,7 @@ Resultado do projeto de Trabalho de Conclusão de Curso Sistemas de informação
 <br><br>
 
 ## :rocket: Tecnologias
-Micro1soft Bot Framework (.NET MVC).
+Microsoft Bot Framework (.NET MVC).
 <ul>
   <li>Adicionando Base de dados ao LUIS</li>
   <li>Intents via conexão com LUIS</li>
