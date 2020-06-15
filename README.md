@@ -17,10 +17,18 @@
 Resultado do projeto de Trabalho de Conclusão de Curso Sistemas de informação - UNIFAFIBE - Bebedouro-SP - 2018.<br>
 <p>O desenvolvimento do projeto tem por objetivo sanar dúvidas especificas ao âmbito educacional UNIFAFIBE, através de chats como o da plataforma Facebook, resultando em redução de gastos, esforços de profissionais e padronização de atendimento.</p>
 
-<br>
+<br><br>
+
+<div align="center">
+  
+![chatbot](https://user-images.githubusercontent.com/48495838/84691068-e50b7d00-af19-11ea-9b81-9ac65c0c0dcb.png)
+
+</div>
+
+<br><br>
 
 ## :rocket: Tecnologias
-Microsoft Bot Framework (.NET MVC).
+Micro1soft Bot Framework (.NET MVC).
 <ul>
   <li>Adicionando Base de dados ao LUIS</li>
   <li>Intents via conexão com LUIS</li>
