@@ -21,7 +21,7 @@ Resultado do projeto de Trabalho de Conclusão de Curso Sistemas de informação
 
 <div align="center">
   
-![chatbot](https://user-images.githubusercontent.com/48495838/84691415-7c70d000-af1a-11ea-8093-19f860b17ab2.png)
+![chat](https://user-images.githubusercontent.com/48495838/85316407-14c70180-b493-11ea-9cba-6593fd48f0dc.png)
 
 </div>
 
@@ -70,6 +70,6 @@ Microsoft Bot Framework (.NET MVC).
 
 https://pt.slideshare.net/RenanBorba/chatbot-inteligente-unifafibe
 
-<br>
+<br><br>
 
 Versão Final. Pablo Espanhol, Renan Borba.
