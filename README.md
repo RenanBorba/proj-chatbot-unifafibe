@@ -70,6 +70,5 @@ Microsoft Bot Framework (.NET MVC).
 
 https://pt.slideshare.net/RenanBorba/chatbot-inteligente-unifafibe
 
-<br><br>
-
+<br>
 Versão Final. Pablo Espanhol, Renan Borba.
