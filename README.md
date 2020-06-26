@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/proj-chatbot.svg)](https://github.com/RenanBorba/proj-chatbot) [![Build Status](https://img.shields.io/github/forks/RenanBorba/proj-chatbot.svg)](https://github.com/RenanBorba/proj-chatbot)
+[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba,%20Pablo%20Espanhol-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/proj-chatbot.svg)](https://github.com/RenanBorba/proj-chatbot) [![Build Status](https://img.shields.io/github/forks/RenanBorba/proj-chatbot.svg)](https://github.com/RenanBorba/proj-chatbot)
 
 </div>
 
@@ -69,6 +69,4 @@ Microsoft Bot Framework (.NET MVC).
 <br><br>
 
 https://pt.slideshare.net/RenanBorba/chatbot-inteligente-unifafibe
-
-<br>
-Versão Final. Pablo Espanhol, Renan Borba.
+<br> Versão Final.
