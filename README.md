@@ -14,12 +14,12 @@
 
 <br>
 
+
 Resultado do projeto de Trabalho de Conclusão de Curso Sistemas de informação - UNIFAFIBE - Bebedouro-SP - 2018.<br><br>
 
 <p>O desenvolvimento do projeto teve como objetivo o foco em sanar dúvidas especificas ao âmbito educacional UNIFAFIBE, através de chats como o da plataforma Facebook, resultando em redução de gastos, esforços de profissionais e na padronização de atendimento.</p>
 
-<br>
-<br>
+<br><br>
 
 <div align="center">
   
@@ -69,8 +69,8 @@ Microsoft Bot Framework (.NET MVC).
 ![02](https://user-images.githubusercontent.com/48495838/54567190-c8e4fd00-49b1-11e9-8af1-e14c7be1e8b6.jpg)
 
 <br><br><br>
-
 <br><br>
+
 
 
 Renan Borba e Pablo Espanhol.  <br>
