@@ -23,7 +23,7 @@ Resultado do projeto de Trabalho de Conclusão de Curso Sistemas de informação
 
 <div align="center">
   
-![home](https://user-images.githubusercontent.com/48495838/127670532-ff674bab-37e3-4e67-aab8-334581bc8544.png)
+![home](https://user-images.githubusercontent.com/48495838/127673893-ad08ae59-4f4c-49d1-a748-0fcdb2f9e313.png)
 
 </div>
 
