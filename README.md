@@ -22,6 +22,7 @@ O desenvolvimento do projeto teve como objetivo o foco em sanar dúvidas especif
 <br>
 
 Projeto: https://pt.slideshare.net/RenanBorba/chatbot-inteligente-unifafibe <br>
+Revista: https://www.unifafibe.com.br/revistasonline/arquivos/revistaepeqfafibe/sumario/77/17012019170425.pdf
 
 <br><br>
 
