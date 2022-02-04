@@ -17,12 +17,15 @@
 ## Resultado do projeto de Trabalho de Conclusão de Curso Sistemas de Informação - UNIFAFIBE - Bebedouro-SP - 2018. 
 <br>
 
-O desenvolvimento do projeto teve como objetivo o foco em sanar dúvidas especificas ao âmbito educacional UNIFAFIBE, através de chats como o da plataforma Facebook, resultando em redução de gastos, esforços de profissionais e na padronização de atendimento.</p>
+O desenvolvimento do projeto teve como objetivo o foco em sanar dúvidas especificas ao âmbito educacional UNIFAFIBE, através de chats como o da plataforma Facebook, resultando em redução de gastos, esforços de profissionais e na padronização de atendimento. <br>
+
+O Projeto foi apresentado no evento IX EPEQ do Centro Universitário UNIFAFIBE em 2018, e considerado o melhor trabalho na modalidade pôster.
+</p>
 
 <br>
 
 Projeto: https://pt.slideshare.net/RenanBorba/chatbot-inteligente-unifafibe <br>
-Publicação na Revista: http://www.unifafibe.com.br/revistasonline/arquivos/revistaepeqfafibe/sumario/77/17012019170425.pdf <br>
+Publicação na Revista do Evento: https://www.unifafibe.com.br/revistasonline/arquivos/revistaepeqfafibe/sumario/77/17012019170425.pdf <br>
 Publicação no Site da UNIFAFIBE: https://unifafibe.com.br/noticias/?noticia=7122 <br>
 Premiação: https://www.linkedin.com/feed/update/urn:li:activity:6474708068872581120/ <br>
 <br><br>
@@ -74,7 +77,7 @@ Microsoft Bot Framework (.NET MVC).
 
 ![02](https://user-images.githubusercontent.com/48495838/54567190-c8e4fd00-49b1-11e9-8af1-e14c7be1e8b6.jpg)
 
-<br><br><br>
+<br><br><br><br>
 
 ### Membros: Renan Borba e Pablo Espanhol.
 
