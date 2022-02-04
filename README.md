@@ -22,8 +22,9 @@ O desenvolvimento do projeto teve como objetivo o foco em sanar dúvidas especif
 <br>
 
 Projeto: https://pt.slideshare.net/RenanBorba/chatbot-inteligente-unifafibe <br>
-Revista: https://www.unifafibe.com.br/revistasonline/arquivos/revistaepeqfafibe/sumario/77/17012019170425.pdf
-
+Publicação na Revista: https://www.unifafibe.com.br/revistasonline/arquivos/revistaepeqfafibe/sumario/77/17012019170425.pdf
+Publicação no Site da UNIFAFIBE: https://unifafibe.com.br/noticias/?noticia=7122
+Premiação: https://www.linkedin.com/feed/update/urn:li:activity:6474708068872581120/
 <br><br>
 
 <div align="center">
@@ -76,6 +77,5 @@ Microsoft Bot Framework (.NET MVC).
 <br><br><br>
 <br><br><br>
 
-#### Membros: Renan Borba e Pablo Espanhol.  <br>
-Premiação: https://www.linkedin.com/feed/update/urn:li:activity:6474708068872581120/
+#### Membros: Renan Borba e Pablo Espanhol.
 
