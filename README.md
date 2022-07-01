@@ -79,5 +79,8 @@ Microsoft Bot Framework (.NET MVC).
 
 <br><br><br><br>
 
-### Membros: Renan Borba e Pablo Espanhol.
+<div align="right">
 
+#### Membros: Renan Borba e Pablo Espanhol.
+
+<div>
