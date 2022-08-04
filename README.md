@@ -76,5 +76,4 @@ Microsoft Bot Framework (.NET MVC).
 ## Interação do chatbot com o usuário
 
 ![02](https://user-images.githubusercontent.com/48495838/54567190-c8e4fd00-49b1-11e9-8af1-e14c7be1e8b6.jpg)
-
 <br>
