@@ -10,7 +10,7 @@
   
 [![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba,%20Pablo%20Espanhol-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/proj-chatbot.svg)](https://github.com/RenanBorba/proj-chatbot) [![Build Status](https://img.shields.io/github/forks/RenanBorba/proj-chatbot.svg)](https://github.com/RenanBorba/proj-chatbot)
   
-![logo](https://user-images.githubusercontent.com/48495838/130834278-4f00df48-5574-4e67-b04e-72885937a385.png)
+![logo-unifafibe](https://github.com/RenanBorba/proj-chatbot/assets/48495838/9dda87ca-26c1-451c-9259-461822ad1a90)
 
 </div>
 
