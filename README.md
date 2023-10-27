@@ -25,9 +25,10 @@ O Projeto foi apresentado no evento IX EPEQ do Centro Universitário UNIFAFIBE e
 <br>
 
 Projeto: https://pt.slideshare.net/RenanBorba/chatbot-inteligente-unifafibe <br>
-Publicação na Revista do Evento: https://www.unifafibe.com.br/revistasonline/arquivos/revistaepeqfafibe/sumario/77/17012019170425.pdf <br>
-Publicação no Site da UNIFAFIBE: https://unifafibe.com.br/noticias/?noticia=7122 <br>
-Premiação: https://www.linkedin.com/feed/update/urn:li:activity:6474708068872581120/ <br>
+Publicação na Revista (ISSN 2176-1833): http://www.unifafibe.com.br/revistasonline/arquivos/revistaepeqfafibe/sumario/77/17012019170425.pdf <br>
+Publicação no Site do UNIFAFIBE: https://unifafibe.com.br/noticias/?noticia=7122 <br>
+Código fonte: https://github.com/RenanBorba/proj-chatbot <br>
+Publicação do Certificado no LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:6474708068872581120 <br>
 <br><br>
 
 <div align="center">
