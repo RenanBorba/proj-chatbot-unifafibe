@@ -19,7 +19,7 @@
 
 O desenvolvimento do projeto teve como objetivo o foco em sanar dúvidas especificas ao âmbito educacional UNIFAFIBE, através de chats como o da plataforma Facebook, resultando em redução de gastos, esforços de profissionais e na padronização de atendimento. <br>
 
-O Projeto foi apresentado no evento IX EPEQ do Centro Universitário UNIFAFIBE em 2018, e considerado o melhor trabalho na modalidade pôster.
+O Projeto foi apresentado no evento IX EPEQ do Centro Universitário UNIFAFIBE em 2018 e, considerado o melhor trabalho na modalidade pôster.
 </p>
 
 <br>
